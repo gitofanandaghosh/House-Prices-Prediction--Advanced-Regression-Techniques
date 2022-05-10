@@ -1,2 +1,4 @@
-# House-Prices-Prediction--Advanced-Regression-Techniques
+﻿# House-Prices-Prediction--Advanced-Regression-Techniques
 The data set for this project has been taken from Kaggle's Housing Data Set Knowledge Competition. This project aims at predicting house prices (residential) in Ames, Iowa, USA.This is an ideal problem for Creative feature engineering. Examining data is one of the important part of Machine Learning.This notebook represents the idea used for my final score on Kaggle which is 0.11410(Top 6%).However, in the process of achieving this score a lot of different tactics such as Data Correlation, ANOVA Test, Standardization, Feature Engineering, PCA, Skewness Reduction, Hyper Parameter Tuning were employed through careful analysis of the Data Set.I did my best to follow a comprehensive, but not exhaustive, analysis of the data. “Style Guide for Python Code PEP8” was followed as Coding Rule.
+
+Kaggle Source: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview
